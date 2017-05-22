@@ -1,0 +1,23 @@
+{
+  "name": "customlandscapesystems",
+  "version": "1.0.0",
+  "description": "Marketing site for Custom Landscape Systems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "butler"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tannerlinsley/customlandscapesystems.git"
+  },
+  "author": "Tanner Linsley <tannerlinsley@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tannerlinsley/customlandscapesystems/issues"
+  },
+  "homepage": "https://github.com/tannerlinsley/customlandscapesystems#readme",
+  "dependencies": {
+    "butler": "^0.4.2"
+  }
+}
